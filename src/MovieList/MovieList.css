@@ -1,0 +1,19 @@
+.MovList{
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-image:url('http://cr103.com/collections/Fractal/fractal--070209-41c.jpg')  ; 
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+    
+
+    font-family: Arial;
+    text-align: center;
+
+}
+
+.MovList >*{
+    margin: 2%;
+}

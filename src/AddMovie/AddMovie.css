@@ -1,0 +1,20 @@
+.formControl{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: blanchedalmond;
+    background-image: url("https://ae01.alicdn.com/kf/He1861d544cd74dd38b9c5ac8c787fff9h.jpg");
+    background-size: cover;
+}
+.formControl >*{
+    margin : 2px;
+    width : 100%;
+    
+}
+.ModHead{
+   
+background-color: rgba(255, 255, 255, 0.788); 
+
+}

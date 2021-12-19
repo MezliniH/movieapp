@@ -1,0 +1,24 @@
+.searchInput{
+    width : 40%;
+}
+.searchArea{
+    display: flex;
+    justify-content: space-between;
+    width:60%
+} 
+.log{
+    text-align: center;
+    width : 25% ;
+}
+.mr-auto {
+
+    nav ul li a {
+        padding: 0.25em 1em;
+        text-decoration: none; /* no underline */
+        background-color: #EBF5FF; /* pale bluish white */
+        color: #4312AE; /* dark blue */
+        border: 2px solid black;
+        border-top-left-radius: 1em 1em; /* rounded corner! */
+        border-top-right-radius: 1em 1em; /* another rounded corner! */
+      }
+}
